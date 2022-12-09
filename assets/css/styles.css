@@ -104,6 +104,11 @@ section button {
 
     }
 
+    .dropdown a:hover {
+        background-color: #665AE1;
+        border-radius: 50px;
+    }
+
     header a, header button {
         display: none;
     }
